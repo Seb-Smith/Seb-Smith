@@ -52,10 +52,6 @@ I am actively looking to join a an ambitious and impactful team, and to develop 
 
 <p align="left"> <a href="https://www.github.com/Seb-Smith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/seb-ellis-smith" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Seb_init" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/SebES"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ### Projects
 **Exploring Issues in Cryptographic Currencies and Working Towards an Alternate Solution – Final Year Project**
 -	Researched and evaluated current Blockchain technologies.
@@ -68,3 +64,7 @@ I am actively looking to join a an ambitious and impactful team, and to develop 
 **Cross platform app building services**
 
 ![WBAA1](https://user-images.githubusercontent.com/58217015/175095389-68d4640a-9147-4e57-8702-800f8bc24c31.png)
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/SebES"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
