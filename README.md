@@ -27,9 +27,9 @@ I am actively looking to join a an ambitious and impactful team, and to develop 
 
 * 🌍  I'm based in Blackpool / Lancashire / North West England / United Kingdom
 * ✉️  You can contact me at [sebastian.ellis.smith@gmail.com](mailto:sebastian.ellis.smith@gmail.com )
-* 🚀  I'm currently working on [Cross platform app building services](http://www.webuildanyapps.com)
 * 🧠  I'm learning Docker / Containerisation | Solidity
 * 🤝  I'm open to collaborating on Data Science | open source projects | blockchain | smart contracts
+* 🚀  I'm currently working on [Cross platform app building services](http://www.webuildanyapps.com), see projects section.
 
 ### Skills
 
@@ -56,3 +56,8 @@ I am actively looking to join a an ambitious and impactful team, and to develop 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/SebES"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Projects
+Cross platform app building services:
+
+![WBAA1](https://user-images.githubusercontent.com/58217015/175095389-68d4640a-9147-4e57-8702-800f8bc24c31.png)
