@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 Hey there 👋 I am Seb
 ====================
 
-Software Engineer
------------------
+### Software Engineer
 
 Although I originally started in business administration, after 5 years I ended up exploring programming and have found I really enjoy it. This is likely due to how I am a problem solver at heart and love learning and challenging myself.
 
@@ -58,6 +57,14 @@ I am actively looking to join a an ambitious and impactful team, and to develop 
 <a href="https://www.buymeacoffee.com/SebES"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ### Projects
-Cross platform app building services:
+**Exploring Issues in Cryptographic Currencies and Working Towards an Alternate Solution – Final Year Project**
+-	Researched and evaluated current Blockchain technologies.
+-	Conceptualised a new consensus algorithm as a solution to problems in the technology.
+-	Produced a working distributed Blockchain with an associated Layer 1 Cryptocurrency. Including Proof of Work consensus, asymmetric transaction signage, Merkle tree transaction storage, and proof-data separation.
+-	Provided an abstraction of the system in the form of a Web UI and using an MVC pattern.
+-	The full package hierarchy contained the Blockchain software, a RESTful API, a Dart package for the Models and Controllers, and a Flutter UI.
+-	Applied Agile and Sprint practices to effectively manage the project.
+
+**Cross platform app building services**
 
 ![WBAA1](https://user-images.githubusercontent.com/58217015/175095389-68d4640a-9147-4e57-8702-800f8bc24c31.png)
