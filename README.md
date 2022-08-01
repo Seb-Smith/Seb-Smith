@@ -61,6 +61,8 @@ I am actively looking to join a an ambitious and impactful team, and to develop 
 -	The full package hierarchy contained the Blockchain software, a RESTful API, a Dart package for the Models and Controllers, and a Flutter UI.
 -	Applied Agile and Sprint practices to effectively manage the project.
 
+[PosterSmithSebastian.pdf](https://github.com/Seb-Smith/Seb-Smith/files/9235373/PosterSmithSebastian.pdf)
+
 **Cross platform app building services**
 
 ![WBAA1](https://user-images.githubusercontent.com/58217015/175095389-68d4640a-9147-4e57-8702-800f8bc24c31.png)
