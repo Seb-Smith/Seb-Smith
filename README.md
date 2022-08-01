@@ -18,11 +18,9 @@ Hey there 👋 I am Seb
 
 ### Software Engineer
 
-Although I originally started in business administration, after 5 years I ended up exploring programming and have found I really enjoy it. This is likely due to how I am a problem solver at heart and love learning and challenging myself.
+Although I originally started in business administration, after 5 years I began exploring programming and found how much I enjoy it.
 
-Now, 5 years on from my decision to change careers, I have graduated University in a Software Engineering BSc Hons course and am awaiting results.
-
-I am actively looking to join a an ambitious and impactful team, and to develop myself with hands on experience and new challenges.
+Now, 5 years on from my decision to change careers, I have graduated University with a 1st in Software Engineering BSc (Hons) and won several awards for best project and performance.
 
 * 🌍  I'm based in Blackpool / Lancashire / North West England / United Kingdom
 * ✉️  You can contact me at [sebastian.ellis.smith@gmail.com](mailto:sebastian.ellis.smith@gmail.com )
@@ -61,7 +59,7 @@ I am actively looking to join a an ambitious and impactful team, and to develop 
 -	The full package hierarchy contained the Blockchain software, a RESTful API, a Dart package for the Models and Controllers, and a Flutter UI.
 -	Applied Agile and Sprint practices to effectively manage the project.
 
-[PosterSmithSebastian.pdf](https://github.com/Seb-Smith/Seb-Smith/files/9235373/PosterSmithSebastian.pdf)
+![PosterSmithSebastian-1](https://user-images.githubusercontent.com/58217015/182191973-c338bfcc-ad3a-44c0-a0d4-da53be207cf4.png)
 
 **Cross platform app building services**
 
